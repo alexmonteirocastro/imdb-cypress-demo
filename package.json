@@ -1,0 +1,11 @@
+{
+  "name": "imdb-tests",
+  "version": "1.0.0",
+  "description": "AAutomated tests for imdb page",
+  "main": "index.js",
+  "author": "Alexandre Castro",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^3.4.0"
+  }
+}
