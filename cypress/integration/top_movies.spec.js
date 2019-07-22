@@ -37,7 +37,6 @@ context('The IMDb top movies list', () => {
   });
 
   it('Adds and removes a movie from the watchlist', () => {
-    cy.reload()
     topMovies.addMovieToWatchList(1)
     topMovies.removeMovieFromWatchList(1)
   });
